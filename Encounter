@@ -1,0 +1,10 @@
+/*This is the first time I use GitHub platform
+Nice to meet you
+I hope this is a beautiful encounter*/
+
+
+public class Encounter{
+  public static void main(String[] args){
+  System.out.println("Hello, I hope we can make progress together!");
+  }
+}
